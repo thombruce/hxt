@@ -1,0 +1,14 @@
+=== Markup ===
+
+== Emphasis ==
+
+The BEST way to create emphasis in a txt document is to use capitalization.
+
+The hxt spec has no specific support for other kinds of emphasis markup, but recommends that hxt clients keep it simple:
+
+- Single asterisks for *bold* text
+- Single underscores for _italic_ text
+
+== Links ==
+
+Links should always be included in their raw format: https://example.com/

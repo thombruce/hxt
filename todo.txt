@@ -1,0 +1,9 @@
+2024-12-24 Add heading parsing/highlighting
+2024-12-24 Add bulleted and numbered list parsing/highlighting
+2024-12-24 Add todo.txt support to hxt library
+2024-12-24 Add datestamp parsing/highlighting
+2024-12-24 Add link support
+2024-12-24 Add some markup parsing/highlighting
+2025-12-25 Publish to GitHub
+2025-12-25 Setup/publish docs site at https://htx.thombruce.com
+2025-12-25 Add versioning to syntax project (in case of breaking changes in future)

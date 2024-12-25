@@ -1,0 +1,49 @@
+=== Lists ===
+
+== Default List ==
+
+Item 1
+Item 2
+Item 3
+
+== Explicit List ==
+
+- Item 1
+- Item 2
+- Item 3
+
+== Numbered List ==
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+== Todo List ==
+
+= Without Date =
+
+Item 1
+Item 2
+x Item 3
+
+= Using Explicit Syntax =
+
+- Item 1
+- Item 2
+x Item 3
+
+= With Created and Completed Dates =
+
+2024-12-24 Item 1
+2024-12-24 Item 2
+x 2024-12-24 2024-12-24 Item 3
+
+= With Due Dates =
+
+2024-12-24 2025-01-01 Item 1
+x 2024-12-24 2024-12-24 2024-01-01 Item 2
+
+The first and second date of a done todo are always considered the completed date and created date. Due dates may also be omitted when the todo is done:
+
+2024-12-24 2024-01-01 Item 1
+x 2024-12-24 2024-12-24 2024-01-01 Item 2

@@ -1,0 +1,27 @@
+=== Headings ===
+
+The hxt recommendation for headings is to use three levels with a descending number of equals signs at either side.
+
+=== Heading 1 ===
+
+== Heading 2 ==
+
+= Heading 3 =
+
+If you need additional heading levels, simply add more equals signs to your top level headings and work down from there.
+
+====== Heading 1 ======
+
+===== Heading 2 =====
+
+==== Heading 3 ====
+
+=== Heading 4 ===
+
+== Heading 5 ==
+
+= Heading 6 =
+
+This approach differs from those used by markup syntaxes like Markdown and AsciiDoc, which each use ascending numbers of markers.
+
+hxt's philosophy is simple: More markers, more emphasis, bigger heading. The bigger your heading, the more visible it is when scrolling through your txt documents.

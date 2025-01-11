@@ -1,0 +1,11 @@
+Title: Metadata
+Author: Thom Bruce
+Date: 2025-01-11
+
+=== Metadata ===
+
+Metadata can be added to a hxt document in the form of key value pairs. These must come at the start of your document.
+
+The metadata block should end with a blank line before your document body begins.
+
+Inspired by the approach used by https://fountain.io/.
